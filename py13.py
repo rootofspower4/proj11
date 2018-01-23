@@ -1,0 +1,5 @@
+var=input("type something.. ")
+print(var)
+print(var.isdigit())
+print(var.isalpha())
+print(len(var))
